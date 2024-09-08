@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/Python-home-blue
+![Static Badge](https://img.shields.io/badge/Python-home-blue)
 Im codi but some people know me as dave.
 
 - 🔭 I’m currently working on: stuff
