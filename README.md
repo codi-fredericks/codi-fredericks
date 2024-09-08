@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/Python-3.12.4-blue?logo=Python&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Python-3.12.4-blue?logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/FastAPI-blue?logo=fastapi&logoColor=white&color=%23009688)
+
 ![Discord](https://img.shields.io/discord/1197835239507107961?logo=discord&logoColor=white&label=Discord%20Server&color=%235865F2)
 
 
