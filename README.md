@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
+
+
+
+### 📊 Stats
+
+![sid-codes-7's stats](https://github-readme-stats.vercel.app/api?username=codi-fredericks&show_icons=true&theme=radical)
