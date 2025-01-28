@@ -8,7 +8,7 @@
 
 I'm codi but some people know me as dave.
 
-- 🔭 I’m currently working on: A new Website for Dash League (vr Esports league)
+- 🔭 I’m currently working on: A new Website for Dash League (vr Esports league) http://dashleague.games
 - 📫 How to reach me: codi@dev-dave.com or https://discord.com/users/490287883303911437
 - 😄 Pronouns: Beep/Boop He/Him
 - ⚡ Fun fact: Dave was the name I used to get out of trouble at school (it worked)
@@ -18,6 +18,7 @@ I'm codi but some people know me as dave.
 - Python
 - Html
 - css
+- java script (basic usage)
 - FastAPI
 - Sqlalchemy
 - MariaDB
