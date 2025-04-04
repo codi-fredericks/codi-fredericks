@@ -18,7 +18,7 @@ I'm codi but some people know me as dave.
 - Python
 - Html
 - css
-- java script (basic usage)
+- java script
 - FastAPI
 - Sqlalchemy
 - MariaDB
