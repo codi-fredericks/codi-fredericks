@@ -1,31 +1,57 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/Python-3.12.4-blue?logo=Python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/FastAPI-blue?logo=fastapi&logoColor=white&color=%23009688)
-
-![Discord](https://img.shields.io/discord/1197835239507107961?logo=discord&logoColor=white&label=Discord%20Server&color=%235865F2)
-
-
 I'm codi but some people know me as dave.
 
-- 🔭 I’m currently working on: A new Website for Dash League (vr Esports league) https://dashleague.games
-- 📫 How to reach me: codi@dev-dave.com or https://discord.com/users/490287883303911437
-- 😄 Pronouns: Beep/Boop He/Him
-- ⚡ Fun fact: Dave was the name I used to get out of trouble at school (it worked)
+---
+[![status](https://api.statusbadges.me/badge/status/490287883303911437?simple=true&style=for-the-badge)](https://discord.com/users/490287883303911437)
 
+[![Discord](https://img.shields.io/discord/1197835239507107961?style=for-the-badge&label=My%20Discord%20Server
+)](https://discord.gg/7pRFkmVnE6)
 
-### Skills
-- Python
-- Html
-- css
-- java script
-- FastAPI
-- Sqlalchemy
-- MariaDB
-- Jinja2
-- ssl certs
-- pillow
+---
+### 🛠️ Skills & Tools
 
-### 📊 Stats
+#### Languages
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,markdown,xml,json" />
+</p>
 
-![sid-codes-7's stats](https://github-readme-stats.vercel.app/api?username=codi-fredericks&show_icons=true&theme=radical)
+#### Deployment
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=googlecloud,linux,raspberrypi" />
+</p>
+
+#### Frontend
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3" />
+</p>
+
+#### Backend
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=fastapi,flask,nodejs" />
+</p>
+
+#### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,ps" />
+</p>
+
+#### AI & ML
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=pytorch,tensorflow" />
+</p>
+
+#### Databases
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=mariadb,sqlite,sqlalchemy" />
+</p>
+
+#### Games
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=godot" />
+</p>
+
+#### Design
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=blender,adobephotoshop,adobeillustrator,gimp,inkscape" />
+</p>
