@@ -5,35 +5,32 @@ I'm codi but some people know me as dave.
 ---
 [![status](https://api.statusbadges.me/badge/status/490287883303911437?simple=true&style=for-the-badge)](https://discord.com/users/490287883303911437)
 
-[![Discord](https://img.shields.io/discord/1197835239507107961?style=for-the-badge&label=My%20Discord%20Server
-)](https://discord.gg/7pRFkmVnE6)
-
 ---
 ### 🛠️ Skills & Tools
 
 #### Languages
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,markdown,xml,json" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,markdown,xml,json,csharp,cpp&perline=12&radius=40" />
 </p>
 
 #### Deployment
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=googlecloud,linux,raspberrypi" />
+  <img src="https://skills.syvixor.com/api/icons?i=googlecloud,linux,raspberrypi&perline=12&radius=40" />
 </p>
 
 #### Frontend
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css3" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,sass&perline=12&radius=40" />
 </p>
 
 #### Backend
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=fastapi,flask,nodejs" />
+  <img src="https://skills.syvixor.com/api/icons?i=fastapi,flask,nodejs&perline=12&radius=40" />
 </p>
 
 #### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman,ps" />
+  <img src="https://skills.syvixor.com/api/icons?i=github,visualstudio,visualstudiocode,postman,dnspy&perline=12&radius=40" />
 </p>
 
 #### AI & ML
@@ -43,7 +40,7 @@ I'm codi but some people know me as dave.
 
 #### Databases
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=mariadb,sqlite,sqlalchemy" />
+  <img src="https://skills.syvixor.com/api/icons?i=sqlite,sqlalchemy,mariadb&perline=12&radius=40" />
 </p>
 
 #### Games
